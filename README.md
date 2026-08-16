@@ -46,3 +46,10 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor principal : https://www.github.com/lararodriguesfs
 
 [![Logo do Java](img/java.png)](https://www.github.com/lararodriguesfs)
+
+#### Código da função soma:
+
+```Javascript
+function soma(a,b){
+    return a + b;
+}
