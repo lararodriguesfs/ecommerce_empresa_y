@@ -53,6 +53,7 @@ Contribuidor principal : https://www.github.com/lararodriguesfs
 function soma(a,b){
     return a + b;
 }
+```
 
 ## Lista de tarefas a fazer
 
