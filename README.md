@@ -32,3 +32,7 @@ __Melhoria 1__, _melhoria 2_
 #### Imagem Local
 
 ![Logo do Java](img/java.png)
+
+#### Imagem externa
+
+![Logo do SpringBoot](https://thumbnail.imgbin.com/8/0/14/spring-boot-green-spring-leaf-logo-design-5ADHHQX4_t.jpg)
