@@ -1,6 +1,6 @@
 # E-commerce empresa Y
 
-Vamos criar um e-commerce, para a empresa Y 
+Vamos criar um **e-commerce**, para a *empresa Y*
 
 ## Funcionalidades
 
