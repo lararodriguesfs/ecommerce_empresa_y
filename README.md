@@ -42,3 +42,5 @@ __Melhoria 1__, _melhoria 2_
 [Google](https://www.googles.com)
 
 [https://www.youtube.com](https://www.youtube.com)
+
+Contribuidor principal : https://www.github.com/lararodriguesfs
