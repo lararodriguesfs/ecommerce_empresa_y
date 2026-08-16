@@ -28,3 +28,7 @@ __Melhoria 1__, _melhoria 2_
     3. Css diferente para grupos  de cliente
 2. Integração com outrs pagamentos
 3. Sistema de bônus primeira compra
+
+#### Imagem Local
+
+![Logo do Java](img/java.png)
